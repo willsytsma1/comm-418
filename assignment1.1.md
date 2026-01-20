@@ -1,6 +1,6 @@
 # The San Francisco Chronicle's "San Francisco crime rates hit historic lows — except in these 2 neighborhoods"
 
-Access the story <a href="https://www.sfchronicle.com/crime/article/san-francisco-neighborhood-data-21286103.php">here</a> 
+Access the story <a href="https://www.sfchronicle.com/crime/article/san-francisco-neighborhood-data-21286103.php">here</a>. 
 
 The Chronicle used crime data from the San Fransisco Police Department to show that, despite what they called historic lows in the city's overall crime rate, two neighborhoods experienced increases in crime. The data show that larceny accounts for the increases in the SoMa and Mission Bay neighborhoods, according to the Chronicle's analysis.
 
