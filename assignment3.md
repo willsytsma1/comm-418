@@ -15,6 +15,8 @@ Incidents that require agents to report use of force can vary from less-lethal f
 
 But no single "type," or level, of force accounted for Tucson's reported decline. Tucson agents reported using less force across all categories. They reported no firearm-related incidents last fiscal year.
 
+It's important to note that reporting can be affected by the level of oversight implemented over agents, which can be impacted by each presidential adminstration's policy. [Need comment from expert on oversight, ideally a former CBP OPR person.]
+
 It remains to be seen whether this trend will hold, especially as President Donald Trump has amped up federal operations across the country. Already in fiscal year 2026, which started on Oct. 1, Border Patrol agents have reported using force over 200 times nationally. In the Tucson sector, agents have reported 28. Tucson agents have already reported one firearm incident this fiscal year.
 
-It's important to note that reporting can be affected by the level of oversight implemented over agents, which can be impacted by each presidential adminstration's policy. [Need comment from expert on oversight, ideally a former CBP OPR person.]
+[Some kicker from an expert.]
