@@ -25,4 +25,4 @@ It remains to be seen whether this trend will hold, especially as President Dona
 
 *Then, I created pivot tables to look at data from different sectors over the years, as well as a number of other combinations of data points. When I saw the trend in Tucson, I  used a filter function (which I remembered existed after I did the first step manually) to isolate only Tucson reports into a new tab. I then made a pivot table from the Tucson-only data to look at force type in particular without the noise of other sectors' data on the page. That combination of pivot tables became the data used above.*
 
-*Access my spreadsheet 
+*Access my spreadsheet <a href="https://docs.google.com/spreadsheets/d/1f6GuTJa2Uns-KltDjmn7C2LvOY2Vf880Ab6Of29PNSY/edit?usp=sharing">here</a>.*
