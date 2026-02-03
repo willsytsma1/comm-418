@@ -20,3 +20,9 @@ It's important to note that reporting can be affected by the level of oversight 
 It remains to be seen whether this trend will hold, especially as President Donald Trump has amped up federal operations across the country. Already in fiscal year 2026, which started on Oct. 1, Border Patrol agents have reported using force over 200 times nationally. In the Tucson sector, agents have reported 28. Tucson agents have already reported one firearm incident this fiscal year.
 
 [Some kicker from an expert.]
+
+*Note: The original CBP dataset includes data from multiple arms of CBP, including Air and Marine Operations and the Office of Field Operations as well as the Border Patrol. To isolate reports from Border Patrol Agents, I first sorted the "Component" column so that all BP reports were together. I manually copied those lines into a new tab, and double checked the number I had copied over to ensure that I capture all present BP reports and none from agents or officers in different components.*
+
+*Then, I created pivot tables to look at data from different sectors over the years, as well as a number of other combinations of data points. When I saw the trend in Tucson, I  used a filter function (which I remembered existed after I did the first step manually) to isolate only Tucson reports into a new tab. I then made a pivot table from the Tucson-only data to look at force type in particular without the noise of other sectors' data on the page. That combination of pivot tables became the data used above.*
+
+*Access my spreadsheet 
