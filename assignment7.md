@@ -5,6 +5,8 @@ Those posts come in tandem with the the department's creation of its "Arrested: 
 
 But, in publicly pushing these allegations, DHS has circumvented people's right to a presumption of innocence, an analysis of their posts shows.
 
-[Publication] examined two weeks of X posts on DHS' account from between Feb. 3 and Feb. 18, 2026. Of those posts, 102 made direct allegations that a person had committed a crime. In 52 of those posts,
+[Publication] examined two weeks of X posts on DHS' account from between Feb. 3 and Feb. 18, 2026. Of those posts, 102 made direct allegations that a person had committed a crime. In a slim majority of those posts, DHS claimed that people were convicted of the crimes they accuse them of committing. But in 52 others, DHS said they had only been arrested, charged or are wanted for the alleged crimes, or it did not specify that status of the cases against those people.
+
+
 In court cases like Taylor v. Kentucky, courts have said that, in order to have a fair trial DHS' accusatory posts that [publication] examined,
 
