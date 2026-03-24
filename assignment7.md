@@ -1,4 +1,4 @@
-See the viz [here](https://datawrapper.dwcdn.net/zLkMa/1/)/
+See the viz [here](https://datawrapper.dwcdn.net/zLkMa/1/).
 
 Since President Donald Trump took office in January 2025, the Department of Homeland Security has uploaded hundreds of posts to X accusing immigrants of serious crimes.
 
