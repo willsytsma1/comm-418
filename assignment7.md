@@ -1,3 +1,4 @@
+See the viz [here](https://datawrapper.dwcdn.net/zLkMa/1/)/
 
 Since President Donald Trump took office in January 2025, the Department of Homeland Security has uploaded hundreds of posts to X accusing immigrants of serious crimes.
 
@@ -11,5 +12,8 @@ In court cases like Taylor v. Kentucky, courts have said that in order to have a
 
 But on X, no such standard exists to protect people against false accusations. Thousands of users have viewed or engaged with the 102 posts that [publication] examined. DHS presented no evidence to prove that people had commmitted the crimes they allege in their posts.
 
+In one Feb. 18 post, DHS wrote that an Ecuardorian man was charged for sexual assault, sexual contact with a child and enticing minors in Connecticut. DHS  attached his photo and called him a pedophile. [Publication] verified that the charges exist, but the case hasn't made it to court. The post recieved over 47,000 views.
 
+On one Feb. 13 post, DHS wrote that a Mexican man was arrested for rape, purchasing sex with a minor and sexual abuse. It posted his photo and called him a child predator and rapist. But the man was never charged for those crimes. The post recieved over 50,000 views.
 
+DHS has continued to post allegations like these on X in near-daily batches. 
