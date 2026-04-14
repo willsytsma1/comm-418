@@ -18,25 +18,26 @@ The posts come in tandem with the the department's creation of its "Arrested: Wo
 
 The [Publication] investigation found that, like those officials pushed against Martinez, the department pushed almost half of them before any court had found them to be true. That's according to DHS' own words in their posts. In a slim majority of those posts, DHS claimed that people were convicted of the crimes they accuse them of committing. But in 52 others, DHS said they had only been arrested, charged or are wanted for the alleged crimes, or it did not specify that status of the cases against those people.
 
-[Publication] was able to confirm that around 55% of the allegations it examined were backed by court or criminal records. In a handful, court records contradicted alleged convictions.
-
-The Department of Homeland Security's press office could not be reached in time for publication.
+[Publication] tried to verify a third of those allegations. Around 55% of the allegations it examined were backed by court or criminal records. But in a handful, court records contradicted alleged convictions.
 
 In a Feb. 13 post, DHS wrote that a Salvadoran had a conviction for possessing "sexual performance by a child" under 16 years old in Suffolk County, New York. But the latest update to the New York Courts case search system shows that the man pled not guilty to the charge and has yet to face trial.
 
 In a Feb. 16 post, DHS wrote that a Mexican man had been convicted for sex assault in South Salt Lake City, Utah. [Publication] could only find a record of his arrest.
 
+In a Feb. 17 post, DHS accused another Mexican man, whom it called a member of the Paisas gang, of having convictions for driving under the influence, assault with a deadly weapon, battery and distribution of methamphetemine. Records corroborated the battery conviction, but [Publication]'s search found that the DUI charges against the man were dropped in court and did not show any convictions for drug distribution. The man still paid fines related to the DUI case, but it's not apparent why.
 
-The Department has pushed allegations against public figures, too. [CARDI B]
+The Department of Homeland Security's press office could not be reached in time for publication.
+
+A few of the convictions that [Publication] could verify came from decades ago. One man featured in a post was convicted for possession of Marijuana in 2004. DHS published another man's possession conviction from 1993.
 
 In court cases like Taylor v. Kentucky, courts have said that in order to have a fair trial, defendants need to be presumed innocent until proven guilty, according to the Legal Information Institute at Cornell Law School. In court, the government has to present evidence through prosecutors that prove a defendant is guilty beyond a reasonable doubt, according to the LII.
 
 But on X, no such standard exists to protect people against false accusations.
+
+The posts have gained thousands of viewers.
 
 [NUMBER OF VIEWS]
 
 
 
 DHS has continued to post allegations like these on X in near-daily batches.
-
-
