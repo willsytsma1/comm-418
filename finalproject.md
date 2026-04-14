@@ -1,12 +1,14 @@
-It was Oct. 4, 2025, when Chicago-resident Marimar Martinez encountered a car driven by Border Patrol agents.
+It was the morning of Oct. 4, 2025, when Chicago-resident Marimar Martinez encountered a car driven by Border Patrol agents.
 
-Martinez was among a "convoy of vehicles" following the silver Chevy Tahoe, [an affadavit](https://www.courtlistener.com/docket/71561860/1/united-states-v-martinez/) that an FBI agent later submitted to the court alleged. Officials alleged that Martinez pursued the agents aggressively before sideswiping their Tahoe.
+Martinez was among a "convoy of vehicles" following the silver Chevy Tahoe, [an affadavit](https://www.courtlistener.com/docket/71561860/1/united-states-v-martinez/) that an FBI agent later submitted to the court alleged. Officials alleged that Martinez pursued the agents aggressively before sideswiping their Tahoe. After the collission, which led to federal assault charges against Martinez, an agent fired five shots at Martinez car.
 
-[TIMEFRAME LATER] more cracks in DHS story began to break. After federal prosecutors filed a motion to dimmiss their assault case against Martinez, 
+Assault allegations against Martinez quickly made it to social media. An X user posting under the name "Kim 'Katie' USA" 
 
-"Ms. Martinez has no convictions nor pending criminal charges but is still publicly degraded as a 'domestic terrorist' by her own Government," her attorney, Christopher Parante, wrote in a court filing.
+Then, weeks later, cracks in DHS story began to break. After federal prosecutors filed a motion to dimmiss their assault case against Martinez, the court agreed to release body camera footage which showed the agent driving the Tahoe swerving left, into Martinez' car.
 
-Since President Donald Trump took office in January 2025, the Department of Homeland Security itself has uploaded hundreds of posts to X accusing immigrants of serious crimes. 
+"Ms. Martinez has no convictions nor pending criminal charges but is still publicly degraded as a 'domestic terrorist' by her own Government," her attorney, Christopher Parante, wrote in a [court filing](https://storage.courtlistener.com/recap/gov.uscourts.ilnd.487595/gov.uscourts.ilnd.487595.100.0.pdf) advocating for the footage's release.
+
+Since President Donald Trump took office in January 2025, the Department of Homeland Security itself has uploaded hundreds of posts to X accusing immigrants of serious crimes. Unlike Martinez, most of the people whose names and faces the department featured in those posts were immigrants.
 
 The posts come in tandem with the the department's creation of its "Arrested: Worst of the Worst" website, a database of people the department has arrested and the crimes it says they committed. The website and X posts are part of the Trump administration's effort to frame its widespread immmigration enforcement operations as a response to threats that undocumented immigrants pose to United States citizens.
 
