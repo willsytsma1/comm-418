@@ -4,7 +4,7 @@ It was the morning of Oct. 4, 2025, when Chicago-resident Marimar Martinez encou
 
 Martinez was among a "convoy of vehicles" following the silver Chevy Tahoe, [an affadavit](https://www.courtlistener.com/docket/71561860/1/united-states-v-martinez/) that an FBI agent later submitted to the court alleged. Officials alleged that Martinez pursued the agents aggressively before sideswiping their Tahoe. After the collission, which led to federal assault charges against Martinez, an agent fired five shots at Martinez car.
 
-Assault allegations against Martinez quickly made it to social media. An X user posting under the name "Kim 'Katie' USA" wrote that Martinez rammed the Border Patrol vehicle, attaching a video of a separate incident. FBI Director Kash Patel [reposted the video](https://www.courtlistener.com/docket/71561860/100/2/united-states-v-martinez/), announcing the assault charges against Martinez. Then-DHS spokeswoman Tricia McLaughlin 
+Assault allegations against Martinez quickly made it to social media. An X user posting under the name "Kim 'Katie' USA" wrote that Martinez rammed the Border Patrol vehicle, attaching a video of a separate incident. FBI Director Kash Patel [reposted the video](https://www.courtlistener.com/docket/71561860/100/2/united-states-v-martinez/), announcing the assault charges against Martinez. Then-DHS spokeswoman Tricia McLaughlin made a post clarifying that the video was not of Martinez but still accusing her of assault.
 
 Then, weeks later, cracks in DHS story began to break. After federal prosecutors filed a motion to dimmiss their assault case against Martinez, the court agreed to release body camera footage which showed the agent driving the Tahoe swerving left, into Martinez' car.
 
