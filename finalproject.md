@@ -22,6 +22,9 @@ The [Publication] investigation found that, like those officials levied against 
 
 The Department of Homeland Security's press office could not be reached in time for publication.
 
+In a Feb. 13 post, DHS wrote that a Salvadoran had a conviction for possessing "sexual performance by a child" under 16 years old in Suffolk County, New York. But the latest update to the New York Courts case search system shows that the man pled not guilty to the charge and has yet to face trial.
+
+In a Feb. 16 post, DHS wrote that a Mexican man had been convicted for sex assault in South Salt Lake City, Utah. [Publication] could only find a record of his arrest.
 
 
 The Department has levied allegations against public figures, too. [CARDI B]
