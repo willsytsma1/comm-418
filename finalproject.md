@@ -1,6 +1,6 @@
 ## DHS made X posts accusing them of crimes. Only half of the allegations are backed by courts.
 
-It was the morning of Oct. 4, 2025, when Chicago-resident Marimar Martinez encountered a car driven by Border Patrol agents.
+It was the morning of Oct. 4, 2025, when Chicago-resident Marimar Martinez encountered a car that Border Patrol agents were driving.
 
 Martinez was among a "convoy of vehicles" following the silver Chevy Tahoe, [an affadavit](https://www.courtlistener.com/docket/71561860/1/united-states-v-martinez/) that an FBI agent later submitted to the court alleged. Officials alleged that Martinez pursued the agents aggressively before sideswiping their Tahoe. After the collission, which led to federal assault charges against Martinez, an agent fired five shots at Martinez car.
 
