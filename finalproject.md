@@ -18,6 +18,8 @@ The posts come in tandem with the the department's creation of its "Arrested: Wo
 
 The [Publication] investigation found that, like those officials pushed against Martinez, the department pushed almost half of them before any court had reached a conviction. That's according to DHS' own words in the posts. In a slim majority of those posts, DHS claimed that people were convicted of the crimes they accuse them of committing. But in 52 others, DHS said they had only been arrested, charged or are wanted for the alleged crimes, or it did not specify that status of the cases against those people.
 
+![datadrivenjournalismgraphic1](https://github.com/user-attachments/assets/c81f175c-6cd2-498a-ad84-f7ba5a120eba)
+
 [Publication] tried to verify a third of those allegations. Around 55% of the allegations it examined were backed by court or criminal records. It's possible that many more are verifiable through search methods available to government officials. But in a handful, court records contradicted alleged convictions.
 
 In court cases like Taylor v. Kentucky, courts have said that in order to have a fair trial, defendants need to be presumed innocent until proven guilty, according to the Legal Information Institute at Cornell Law School. In court, the government has to present evidence through prosecutors that prove a defendant is guilty beyond a reasonable doubt, according to the LII.
@@ -36,15 +38,20 @@ At least three of the convictions that [Publication] could verify came from deca
 
 The posts have gained thousands of viewers. The Salt Lake City sex assault post gained ovre 1,000 views as of April 14. The post about a man's possession of a child's "sexual performance" reached over 7,000. The partially corroborated criminal history of the alleged Paisas gang member earned 15,000.
 
-In reality, a fraction of the people DHS has arrested during the Trump administration's immigration crackdown have past convictions. 
+In reality, a fraction of the people DHS has arrested during the Trump administration's immigration crackdown have past convictions. From Jan. 21, the day of Trump's inauguration, through the end of 2025, just over a third of the people who ICE has arrested were convicted criminals, according to ICE's arrest data obtained by the Deportatipn Data Project.
+
+![datadrivenjournalismgraphic2](https://github.com/user-attachments/assets/de013dc7-cefe-4ac6-b6d5-c37822dc87da)
 
 
 DHS has continued to post allegations like these on X in near-daily batches.
 
-## How we did it
+## How [publication] verified (or didn't verify) DHS' allegations
 
-[Publication] collected 102 posts from the X's 
+[Publication] collected the 102 posts from the DHS's X page from early February.
 
-We then used Intellius, a background check search system, to find records of allegations 
+The reporter used Intellius, a background check search system used by some investigative newsrooms, to find records of arrests, charges and convictions against the people identified in those posts. The reporter searched with all information given in DHS posts, including name, location and, rarely, an age. Without a date of birth or age, it's sometimes difficult to be sure the name in Intellius matched the person who DHS referenced. When multiple people were responsive to a search, the reporter looked through all of them. If a case number came up in a person's Intellius record, the reporter searched the case number in the relavent court's case search system to verify its most recent status. If a criminal history didn't appear in Intellius but DHS allegations involved a sex crime, the reporter searched the relevant state's sex offender registry. 
 
+Because the verification process is time intensive (the reporter searched with the goal of verifying each and every conviction, charge and arrest detailed in the posts), the reporter only searched 34 of the people featured in the more-than-hundred posts.
 
+Find the data [here](https://docs.google.com/spreadsheets/d/1WtiPedy_Nd9wkt0AehEJwvNKbXcqhlgnfjMP4y8N8zc/edit?usp=sharing).
+Find the Deportation Data Project's arrests data [here](https://docs.google.com/spreadsheets/d/1Tz8DLY3VqXGwG5LJWEhP6hzZWIqXwW1Z8H6x6dVDxYk/edit?usp=sharing).
