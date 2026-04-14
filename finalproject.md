@@ -16,9 +16,9 @@ The posts come in tandem with the the department's creation of its "Arrested: Wo
 
 [Publication] examined two weeks of X posts on DHS' account from between Feb. 3 and Feb. 18, 2026. Of those posts, 102 made direct allegations that a person had committed a crime.
 
-The [Publication] investigation found that, like those officials levied against Martinez, the department pushed almost half of them before any court had found them to be true. That's according to DHS' own words in their posts. In a slim majority of those posts, DHS claimed that people were convicted of the crimes they accuse them of committing. But in 52 others, DHS said they had only been arrested, charged or are wanted for the alleged crimes, or it did not specify that status of the cases against those people.
+The [Publication] investigation found that, like those officials pushed against Martinez, the department pushed almost half of them before any court had found them to be true. That's according to DHS' own words in their posts. In a slim majority of those posts, DHS claimed that people were convicted of the crimes they accuse them of committing. But in 52 others, DHS said they had only been arrested, charged or are wanted for the alleged crimes, or it did not specify that status of the cases against those people.
 
-[Publication] was able to confirm that around XXX% of the allegations it examined were backed by court or criminal records. In a handful, court records contradicted alleged convictions.
+[Publication] was able to confirm that around 55% of the allegations it examined were backed by court or criminal records. In a handful, court records contradicted alleged convictions.
 
 The Department of Homeland Security's press office could not be reached in time for publication.
 
@@ -27,7 +27,7 @@ In a Feb. 13 post, DHS wrote that a Salvadoran had a conviction for possessing "
 In a Feb. 16 post, DHS wrote that a Mexican man had been convicted for sex assault in South Salt Lake City, Utah. [Publication] could only find a record of his arrest.
 
 
-The Department has levied allegations against public figures, too. [CARDI B]
+The Department has pushed allegations against public figures, too. [CARDI B]
 
 In court cases like Taylor v. Kentucky, courts have said that in order to have a fair trial, defendants need to be presumed innocent until proven guilty, according to the Legal Information Institute at Cornell Law School. In court, the government has to present evidence through prosecutors that prove a defendant is guilty beyond a reasonable doubt, according to the LII.
 
